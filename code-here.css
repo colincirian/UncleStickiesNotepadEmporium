@@ -1,24 +1,58 @@
 #classic {
+    padding: 1em 1em 0 1em;
+    text-align: justify;
 
 }
 
 #modern {
+    padding: 1.5em 1.5em 0 1.5em;
+    background-color: ;
+    text-align: center;
+    font-family: sans-serif;
 
 }
 
 #impact {
-
+    padding: 1.5em;
+    font-family: sans-serif;
+    border: 15px double black;
+    background-color: green;
+    text-align: center;
 }
 
 #elise {
+    padding: 1.3em;
+    font-family: cursive;
+    background-color: #fefaf0;
+    border: 5px groove #faead7;
+    text-align: center;
+    box-shadow: 4px 4px 7px #dcdbdb;
+    color: grey;
 
 }
 
 #one, #two  {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    margin: 2rem 1rem 0rem 2rem;
+    background-color: #7ffed4;
+    border: 6px groove #35ced1;
+    padding: 1rem;
+    font-family: sans-serif;
+    border-radius: 15px 50px;
 
 }
 
+#doubles {
+    text-align: center;
+}
+
 #gaudi {
+    padding: 1rem;
+    background-color: salmon;
+    border-radius: 15px 45px;
+    
 
 }
 
